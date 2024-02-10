@@ -12,7 +12,7 @@ const Details = () => {
     let user = document.getElementById("input").value
     console.log(user)
     setusername(user);
-    // document.getElementById(".input").value = "";
+    document.getElementById("input").value = "";
     document.getElementById("input").focus();
   }
 
