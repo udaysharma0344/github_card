@@ -35,7 +35,7 @@ const Details = () => {
   fetchdata();
   // }, []);
 
-
+ 
 
 
   return (
